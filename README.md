@@ -1,2 +1,2 @@
 # Youtube-Video-Downloader
-# Change where it gets downloaded by putting the path in "" inside the bracket on line 15
+# Change where it gets downloaded by putting the path in "" inside the bracket on line 16 (Video.download())
